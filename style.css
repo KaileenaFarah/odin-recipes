@@ -1,4 +1,26 @@
 body {
-background-color: pink;
+    background-color: pink;
+    font-family: Georgia, serif;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.title {
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+p.text {
 
 }
+
+#homepage-list {
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+}
+
+div {
+    margin: 70px;
+    border: none;
+  }
