@@ -1,4 +1,4 @@
-This is my first assignment from TOP curriculum - simple recipe page done by using basic HTML.
+This is my first assignment from TOP curriculum - simple recipe page done by using basic HTML and CSS.
 
 'Your new recipe page should have the following content:
 An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on Google or Allrecipes.
