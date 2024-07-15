@@ -1,10 +1,11 @@
 body {
     background-color: pink;
+    background-size: contain;
+    background-clip: border-box;
+    border-radius: 100px;
     color: bisque;
     font-family: Georgia, serif;
     list-style-position: inside;
-    border-style: double;
-    border-color: black;
 }
 
 div {
@@ -12,15 +13,13 @@ div {
     border: none;
     border-style: none;
     background-color: rgb(184, 131, 131);
-    padding-top: 50px;
+    padding-top: 8px;
     padding-right: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
     padding-left: 100px;
-    
   }
 
 img {
-
     width: 100%;
     height: 200px;
     object-fit: cover; 
@@ -59,7 +58,7 @@ img {
 
 #navigation a {
    
-    color: white;
+    color: bisque;
     border: none;
     padding: 10px 10px;
     padding-left: 200px;
