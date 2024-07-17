@@ -39,7 +39,7 @@ body {
 .lemon__title,
 .sugar__title {
     
-    margin: -210px 0 50px 0;
+    margin: -225px 0 50px 0;
     font-family:'bambi';
     font-size: 100px;
     font-weight: bolder;
@@ -125,7 +125,7 @@ a:active {
 .sugar__headline {
     
     font-family:'bambi';
-    font-size: 35px;
+    font-size: 45px;
     color:rgb(119, 156, 213, 0.4);
     
 }
@@ -137,7 +137,25 @@ a:active {
     border: 1px;
     border-style: none;
     border-radius: 20px;
+    box-shadow: -3px 4px 60px -30px rgba(137, 116, 158, 1);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
 
+}
+
+.peanut__list,
+.lemon__list,
+.sugar__list {
+    list-style-type: circle;
+    color:rgb(93, 114, 145);
+    letter-spacing: 1px;
+    margin-left: 30px;
+    margin-right: 90px;
+    margin-bottom: 0;
+    margin-top: 30px;
+  
 }
 
 #about__button {
